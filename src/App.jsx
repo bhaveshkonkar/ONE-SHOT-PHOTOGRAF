@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { supabase, missingSupabaseEnv } from './lib/supabaseClient'
-
 import logoImg from './assets/logo1.png'
 import aboutImg from './assets/AboutUs.jpg'
 import statsImg from './assets/statsimg.jpg'
@@ -12,6 +11,7 @@ import p3 from './assets/p3.jpg'
 import p4 from './assets/p4.jpg'
 import p5 from './assets/p5.jpg'
 import p6 from './assets/p6.jpg'
+
 const videoBg = 'https://res.cloudinary.com/dvlitsp9h/video/upload/v1774979134/Capture_every_wedding_moment_with_the_all-new_FE_50_150_mm_F2_GM_Featuring_Amar_Ramesh_1080P_njfo56.mp4'
 const values = [
   {
