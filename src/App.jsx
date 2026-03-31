@@ -705,7 +705,7 @@ function App() {
           loop
           muted
           playsInline
-        />
+        ><video/>
         <div className="absolute inset-0 bg-black/45" />
         <div className="relative z-10 flex min-h-screen flex-col">
 
